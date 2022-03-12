@@ -1,0 +1,1 @@
+go run ./acorn/src/bin/acorn.go
